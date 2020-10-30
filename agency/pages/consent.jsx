@@ -1,5 +1,8 @@
+import SignaturePad from './../component/signature'
+
 function consent() {
     return (
+        <>
         <div>
            The researcher requests your consent for participation in a study about ___. This consent form asks you to allow the researcher to record and view the interview and to use your comments to enhance understanding of the topic. The form also asks your permission to use related observations, images or posts as data in this study.
 
@@ -17,6 +20,8 @@ If you have any questions, or would like a copy of this consent letter, please c
 
 Thank you in advance for your participation!
         </div>
+        <SignaturePad />
+        </>
     )
 }
 
