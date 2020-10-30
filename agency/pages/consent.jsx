@@ -4,7 +4,7 @@ function consent() {
     return (
         <>
         <div>
-           The researcher requests your consent for participation in a study about ___. This consent form asks you to allow the researcher to record and view the interview and to use your comments to enhance understanding of the topic. The form also asks your permission to use related observations, images or posts as data in this study.
+           requests your consent for participation in a study about ___. This consent form asks you to allow the researcher to record and view the interview and to use your comments to enhance understanding of the topic. The form also asks your permission to use related observations, images or posts as data in this study.
 
 This questionnaire asks for your preferences about whether to remain anonymous or to allow the researcher to name you and your [school/organization/business] and to quote you directly. It also asks you to indicate your preferences for use of visual images shared or generated in the interview.
 
